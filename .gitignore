@@ -1,3 +1,4 @@
 Pipfile.lock
 .idea
 *.pyc
+bot_settings.py
